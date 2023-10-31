@@ -5,3 +5,7 @@ A simple terminal to allow you to put text inside, or expand this with custom Ja
 ## Usage:
 
 `npm run dev`
+
+## Example
+
+- [CodePen](https://codepen.io/ParagonJenko/pen/abXNgXm)
